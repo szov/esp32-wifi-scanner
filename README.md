@@ -54,4 +54,4 @@ Then open that IP in a browser:
 http://192.168.1.45/
 You’ll see a live-updating table of all nearby WiFi networks.
 
-## Written by ZSOV
+## Written by SZOV
